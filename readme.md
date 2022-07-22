@@ -42,22 +42,52 @@
 
 ## sourceTree
 
-<img src="./sourceTree.png" ></img>
+<img src="./source-Tree1.png" ></img>
+
+#### 源代码管理工具 可以按需提交代码 可以清晰查看更改记录
+#### 与小乌龟Tortoise 互有胜负
 
 [软件下载](https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.7.exe)
 
+## ``switchHosts``
+[Github releases](https://github.com/oldj/SwitchHosts/releases)
+
+### 可以按需更改hosts 文件 切换hosts 方案 加载运程hosts 等
+## ``当然也可以用火绒的hosts更改工具``
+
+## steam++ 工具 steam 辅助工具 本地反代工具(steam 商店,github,pixiv,stackOverflow etc. 加速)
+
+[官网][https://steampp.net/]
+[Github][https://github.com/BeyondDimension/SteamTools]
+
+## Snipaste 高效截图工具
+
+``下载到`` [官网](https://www.snipaste.com/download.html)
 
 ## ``geek 卸载工具``
 
 ![geek](https://geekuninstaller.com/assets/images/boxshot.png)
 
-### 卸载完成后可清除残留注册表数据,不给软件留后路
+### 卸载完成后可清除残留注册表数据
 
 [软件下载](https://geekuninstaller.com/geek.zip)
 
 ## 关于软件下载 部分软件为有道云分享 下载方式如下 
 
 ![图片](./download.png)
+
+#  插画网站pixiv
+
+## 电脑浏览器看
+
+### 本地反代比steam++快
+[pixiv-nginx Github](https://github.com/mashirozx/Pixiv-Nginx)
+
+## 手机看
+
+## pixiv 第三方app pixez (ios国内已下架,可以搞个港澳台的appleId下载)
+
+[pixez Github](https://github.com/Notsfsssf/pixez-flutter)
 
 # 浏览器插件
 

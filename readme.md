@@ -64,13 +64,13 @@
 
 ``下载到`` [官网](https://www.snipaste.com/download.html)
 
-## ``geek 卸载工具``
+## ``revo uninstaller pro 卸载工具(绿色版)``
 
-![geek](https://geekuninstaller.com/assets/images/boxshot.png)
+![revo uninstaller pro](./revo-uninstall.png)
 
 ### 卸载完成后可清除残留注册表数据
 
-[软件下载](https://geekuninstaller.com/geek.zip)
+[软件下载](https://note.youdao.com/s/6Bd744YW)
 
 ## 关于软件下载 部分软件为有道云分享 下载方式如下 
 

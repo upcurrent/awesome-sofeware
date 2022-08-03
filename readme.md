@@ -2,6 +2,19 @@
 
 # 分享一些好用的工具
 
+## （局域网环境）不同设置传输文件 脱离QQ 微信文件助手
+
+[snapdrop 官网](https://snapdrop.net)
+
+两台设备在同一局域网下打开该网站找到对应设备直接就可以传输文件
+
+设备1
+<img src="./snapdrop.png" style="width:1000px"/>
+
+设备2
+
+<img src="./snapdrop_s.jpg" style="width:300px"/>
+
 ## ``Free Download Manager``
 
 ![Free Download Manager](https://www.freedownloadmanager.org/public/img/screen_win.png)

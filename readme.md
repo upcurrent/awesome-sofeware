@@ -17,7 +17,7 @@
 
 ![Free Download Manager](https://www.freedownloadmanager.org/public/img/screen_win.png)
 
-#### 开源的多线程下载工具  
+#### 免费的多线程下载工具  
 #### 多线程下载就是下载一个资源时 开启多个线程分断下载,最后合并 下载连接越多速度提升越快
 #### (提升下载速度配合浏览器扩展直接起飞)  (internet download Manager 平替方案) 配合浏览器插件 下直接起飞
 ![Free Download Manager](./fdm3.png)
